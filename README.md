@@ -10,3 +10,8 @@ git clone https://github.com/MUZAMMILATEO/End-to-End-Machine-Learning-Pipeline.g
 conda create -n mlproj python==3.8 -y
 conda activate mlproj
 ```
+
+###  Install the requirements
+```
+pip install -r requirements.txt
+```
